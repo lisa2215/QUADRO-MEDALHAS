@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+h1{
+        font-family: "Vollkorn", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+}
+
+img {
+    height: 25px; /* Altura da imagem */
+    width: 25px; /* largura da imagem */
+
+}
+
+.medalhas{
+    height: 20px;
+    width: 20px;
+}
+
+td{
+    text-align: center;
+}
+
+.pais{
+    text-align: left;
+}
+
+im:hover {
+    transform: scale(2);
+}
+
+table tr:hover{
+    background-color:hotpink;
+
+}
